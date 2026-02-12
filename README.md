@@ -27,7 +27,6 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 
 2. **Change relevant strings**
    - Unless your girl is also named "Saima" it'd be real awkward if you forget to do this
-   - 
 
 4. **Deploy to GitHub Pages:**
    - Go to repository Settings
