@@ -26,7 +26,7 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
    - `tile-3.png` will be the empty space (top-right) but appear once the puzzle is completed
 
 2. **Change relevant strings**
-   - Unless your girl is also named "Gaby" it'd be real awkward if you forget to do this
+   - Unless your girl is also named "Saima" it'd be real awkward if you forget to do this
    - 
 
 4. **Deploy to GitHub Pages:**
